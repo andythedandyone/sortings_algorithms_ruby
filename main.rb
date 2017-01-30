@@ -1,21 +1,3 @@
-array1 = [0,1,1,0]
-array2 = []
-a = 10
-b = 2
-bits = a.to_s(2)
-shift = b.to_s(2)
-# ibits = 0b1
-
-puts bits
-puts shift
-
-shift << bits
-
-# puts shift
-puts shift.to_i(2)
-
-
-
 
 #Sorting functions by andythedandyone
 #Use, improve but just dont make it complicated for starters to understand
